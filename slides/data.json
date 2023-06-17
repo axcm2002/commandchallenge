@@ -1,7 +1,7 @@
-[
-    { "instructions": "**Get inside** the `thecmdchallenge/` directory" },
+
+    { "instructions": "**Get inside** the `thecmdchallenge/` directory" }, 
     { "instructions": "Who won the previous challenge? Each winner should explain what he/she did to the entire class each time" },
-    { "instructions": "**Print** current directory path" },
+    { "instructions": "**Print** current directory path" }, 
     { "instructions": "**List all** the files from the **current directory** including the hidden ones" },
     { "instructions": "Now **list all** the files inside the project, recursively (all files in the hierarchy)." },
     { "instructions": "**Clear** all the clutter from the command line" },
@@ -15,4 +15,4 @@
     { "instructions": "**Remove** all the contents from the **boringfolder**, they are extremely boring..." },
     { "instructions": "**Open** the file `kamehameha/dragon-ball-jokes.md` using the **VI command line text editor**" },
     { "instructions": "**Update** the file kamehameha/*dragon-ball-jokes.md* by removing the first joke you read on the file, finally **save and close** the text editor." }
-]
+
